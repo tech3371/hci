@@ -13,7 +13,7 @@ Our Project is to develop an app that could be used to save money and get report
 
 **Link to All Previous Assignments **
 
-https://drive.google.com/file/d/1tIFDqShMZV1ePzAPKOCjAwRB2T5NXqch/view?usp=sharing <br>
+https://drive.google.com/drive/folders/1htzlIcQ3EWdANZs-L4j7S21_nXO1Ucci?usp=sharing <br>
 
 Below could be a picture of Final Prototype Henny makes. <br>
 
