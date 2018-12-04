@@ -1,10 +1,10 @@
 theme: jekyll-theme-hacker
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/hci/'
+  
+  siteurl: 'http://prose.github.io/hci/hciImage.jpeg'
   relativeLinks: 'http://prose.github.io/hci/hciImage.jpeg'
-  media: 'media'
+  media: 'hciImage.jpeg'
   ignore:
     - index.md
     - _config.yml
