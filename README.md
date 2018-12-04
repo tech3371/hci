@@ -4,5 +4,5 @@ Our Project is to develop an app that could be used to save money and get report
 
 ```markdown
 https://www.figma.com/file/a1ey6mX8Z9yZplBXDTmKc77B/prototype?node-id=0%3A1
-![Image](src)
+![Image](hciImage.jpeg)
 ```
